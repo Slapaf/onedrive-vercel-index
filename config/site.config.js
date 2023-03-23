@@ -48,7 +48,7 @@ module.exports = {
   //   '/🥟 Some test files/Protected route'
   // ],
   protectedRoutes: [
-    '/Public/Private Folder',
+    '/Private Folder',
   ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
