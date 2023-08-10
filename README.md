@@ -142,8 +142,6 @@ Open-source is hard! If you happen to like this project and want me to keep goin
 
 [MIT](LICENSE)
 
-## Test
-
 <div align="center">
   <img src="./public/footer.png" />
   <em>made with ❤️ by <a href="https://spencerwoo.com">spencer woo</a></em>
